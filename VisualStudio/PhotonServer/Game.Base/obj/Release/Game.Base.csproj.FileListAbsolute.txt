@@ -1,0 +1,5 @@
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Base\bin\Release\Game.Base.dll
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Base\bin\Release\Game.Base.pdb
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Base\obj\Release\Game.Base.dll
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Base\obj\Release\Game.Base.pdb
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Base\obj\Release\Game.Base.csprojResolveAssemblyReference.cache

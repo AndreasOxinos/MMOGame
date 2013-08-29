@@ -1,0 +1,16 @@
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\bin\Release\Game.Server.dll
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\bin\Release\Game.Server.pdb
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\bin\Release\ExitGames.Logging.Log4Net.dll
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\bin\Release\ExitGamesLibs.dll
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\bin\Release\Photon.SocketServer.dll
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\bin\Release\ExitGames.Logging.Log4Net.pdb
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\bin\Release\ExitGamesLibs.pdb
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\bin\Release\ExitGamesLibs.xml
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\bin\Release\Photon.SocketServer.pdb
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\obj\Release\Game.Server.dll
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\obj\Release\Game.Server.pdb
+C:\Users\Andreas\Documents\PhotonServerV3_2_10\deploy\Game1Photon\bin\Game.Server.dll
+C:\Users\Andreas\Documents\PhotonServerV3_2_10\deploy\Game1Photon\bin\Game.Server.pdb
+C:\Users\Andreas\Documents\PhotonServerV3_2_10\deploy\Game1Photon\bin\log4net.config
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Server\obj\Release\Game.Server.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\PhotonServerV3_2_10\deploy\Game1Photon\bin\Game.Server.dll.config

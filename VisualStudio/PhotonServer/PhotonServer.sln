@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game.Server", "Game.Server\Game.Server.csproj", "{B2E0EBE1-7510-4784-BB05-945D7BBD8074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game.Base", "Game.Base\Game.Base.csproj", "{B732CA7F-C95A-4586-9762-79AF94452DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug - Krabos|Any CPU = Debug - Krabos|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E0EBE1-7510-4784-BB05-945D7BBD8074}.Debug - Krabos|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E0EBE1-7510-4784-BB05-945D7BBD8074}.Debug - Krabos|Any CPU.Build.0 = Debug|Any CPU
+		{B2E0EBE1-7510-4784-BB05-945D7BBD8074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E0EBE1-7510-4784-BB05-945D7BBD8074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E0EBE1-7510-4784-BB05-945D7BBD8074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E0EBE1-7510-4784-BB05-945D7BBD8074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B732CA7F-C95A-4586-9762-79AF94452DFA}.Debug - Krabos|Any CPU.ActiveCfg = Debug|Any CPU
+		{B732CA7F-C95A-4586-9762-79AF94452DFA}.Debug - Krabos|Any CPU.Build.0 = Debug|Any CPU
+		{B732CA7F-C95A-4586-9762-79AF94452DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B732CA7F-C95A-4586-9762-79AF94452DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B732CA7F-C95A-4586-9762-79AF94452DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B732CA7F-C95A-4586-9762-79AF94452DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

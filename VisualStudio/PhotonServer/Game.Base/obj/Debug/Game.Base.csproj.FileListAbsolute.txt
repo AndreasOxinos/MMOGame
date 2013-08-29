@@ -1,0 +1,6 @@
+H:\Developer Videos\MyPhoton\VisualStudio\Unity\Assets\_Asseblies\Game.Base.dll
+H:\Developer Videos\MyPhoton\VisualStudio\Unity\Assets\_Asseblies\Game.Base.pdb
+H:\Developer Videos\MyPhoton\Unity\Assets\_Asseblies\Game.Base.dll
+H:\Developer Videos\MyPhoton\Unity\Assets\_Asseblies\Game.Base.pdb
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Base\obj\Debug\Game.Base.dll
+H:\Developer Videos\MyPhoton\VisualStudio\PhotonServer\Game.Base\obj\Debug\Game.Base.pdb
